@@ -1,0 +1,4 @@
+colorama
+geopy
+playwright
+tqdm
